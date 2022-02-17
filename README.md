@@ -1,4 +1,4 @@
-# A collection of niche, obscure and helpful scripts I write to help with various tasks
+# A collection of niche, obscure and helpful scripts I wrote to help with various tasks
 
 ## Scripts with their own repo
 
