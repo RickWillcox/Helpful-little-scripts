@@ -38,3 +38,9 @@ Downloads an image from a URL to your local directory.
 ```
 Deletes a selected file in your file system
 ```
+---
+[Typescript get ImgBB direct links](https://github.com/RickWillcox/Helpful-little-scripts/blob/main/direct-links-from-image-bb.ts)
+```
+Takes in the base link for an ImgBB image and saves the direct link in a text file
+```
+
