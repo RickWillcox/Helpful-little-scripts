@@ -43,4 +43,9 @@ Deletes a selected file in your file system
 ```
 Takes in the base link for an ImgBB image and saves the direct link in a text file
 ```
+---
+[Typescript Compress Jpeg with minimal loss using Sharp](https://github.com/RickWillcox/Helpful-little-scripts/blob/main/Compress-Jpeg.ts)
+```
+Takes in a jpg or jpeg file and will create a new image with on average around half the file size of the original with almost not quality loss. Will work for other image types with minimal tinkering.
+```
 
