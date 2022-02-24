@@ -14,7 +14,7 @@ Currently set up get get filename, label, and confidence.
 ```
 ---
 
-### NodeJS / TS
+### Node / TS
 ---
 [Typescript Blazeface detect faces AI](https://github.com/RickWillcox/Lots-of-helpful-scripts/blob/main/Blaze-AI-Face-Detection.ts)
 ```
