@@ -1,19 +1,11 @@
 # A collection of niche, obscure and helpful scripts I wrote to help with various tasks
 
-## Scripts with their own repo
-
 ### Python
 ---
 [Python Bulk Image Downloader](https://github.com/RickWillcox/Python-Bulk-Image-Downloader)
 ```
 Takes in a txt file containing links to images all on a new line and downloads them all.
 ```
----
-
-
-## Scripts in this repo
-
-### Python
 ---
 [Python DarkHelp Json Formatter](https://github.com/RickWillcox/Lots-of-helpful-scripts/blob/main/Dark-Help-Json-Formatting.py)
 ```
