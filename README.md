@@ -40,4 +40,10 @@ Takes in the base link for an ImgBB image and saves the direct link in a text fi
 ```
 Takes in a jpg or jpeg file and will create a new image with on average around half the file size of the original with almost not quality loss. Will work for other image types with minimal tinkering.
 ```
+---
+[Typescript Convert Local time to another time using UTC offset](https://github.com/RickWillcox/Convert-Time-Via-UTC)
+```
+Take a local time and another time that is potentially in another timezone and added the utc offset to the local time.
+```
+
 
